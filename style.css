@@ -1,0 +1,45 @@
+body{
+    background: #c5c9c9;
+    margin-right: 20px;
+    margin-left: 300px;
+}
+nav{}
+header{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 120px;
+}
+footer{
+    margin-bottom: 50px;
+    margin-top: 5px;
+    font-size: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 160px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 240%;
+}
+h2 {
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 80px;
+}
+h3{
+    margin-left: 70px;
+    font-size: 150%;
+}
+img{
+    margin-bottom: 1px;
+   
+}
+
+.video{
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+.www{
+    margin-left: 100px;
+}
