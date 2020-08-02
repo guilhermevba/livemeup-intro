@@ -3,11 +3,14 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat';
-    color: #222;
+    color: #fff;
 }
 
 body{
-    background: #c5c9c9;
+    background: #171f31;
+}
+
+#content{
     height: 100vh;
     width: 100%;
     max-width: 900px;
@@ -16,7 +19,8 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-}
+    background-color: #171f31;
+} 
 header{
     padding: 10px 0;
     display: flex;
@@ -30,7 +34,7 @@ header h1{
 
 }
 header h1 span{
-    color: #ffe851;
+    color: #ab0626;
 }
 footer{
     width: 100%;
@@ -51,7 +55,7 @@ footer a svg{
     width: 16px;
     height: 16px;
     margin-right: 4px;
-    fill: #ffe851;
+    fill: #ab0626;
 }
 
 img{
