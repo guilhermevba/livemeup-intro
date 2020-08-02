@@ -7,7 +7,7 @@
 }
 
 body{
-    background: #171f31;
+    background: linear-gradient(151deg, rgba(90,14,38,1) 0%, rgba(56,23,44,1) 8%, rgba(23,31,49,1) 50%, rgba(56,23,44,1) 92%, rgba(90,14,38,1) 100%);
 }
 
 #content{
@@ -19,7 +19,6 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-color: #171f31;
 } 
 header{
     padding: 10px 0;
